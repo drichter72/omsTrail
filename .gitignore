@@ -1,5 +1,6 @@
 #log
 mydb.log
+.idea
 
 /data
 /log
@@ -26,6 +27,8 @@ mydb.log
 /bin/ext-webservices
 /bin/platform/
 /bin/custom/concerttours/gensrc/
+bin/idea-module-files/*
+idea-module-files/*
 config/solr
 config/tomcat
 config/tcServer
@@ -34,5 +37,6 @@ config/.*
 config/customize
 config/languages
 config/licence
+config/hybris4intellij.*
 
 *.class
