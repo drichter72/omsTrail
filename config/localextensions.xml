@@ -43,5 +43,6 @@
 		<extension name='sourcingextend'/>
 		<extension name='ordermanagementfacades'/>
 		<extension name='warehousingfacades'/>
+		<extension name='warehousingextended'/>
 	</extensions>
 </hybrisconfig>
